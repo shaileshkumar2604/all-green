@@ -46,4 +46,4 @@ finally `PUSH` your repo to see the magic.
 * Pranav Bhaskar - [Pranav-Bhaskar](https://github.com/Pranav-Bhaskar)
 
 > Only for entertainment and educational purpose
-
+> technology is cool but dangerous when in wrong hands.
